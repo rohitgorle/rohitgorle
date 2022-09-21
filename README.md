@@ -54,14 +54,3 @@
 <br>
  
 
-<!-- GITHUB STAT CODE -->
-
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>My Github Information:</strong></h2>
-    
-<!-- STREAK CODE -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitgorle&" alt="rohitgorle" /></p>
-
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitgorle&show_icons=true&locale=en" alt="rohitgorle" /></p>
-
